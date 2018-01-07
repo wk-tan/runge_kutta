@@ -1,0 +1,14 @@
+#F90 files
+*.exe
+*.f90~
+*.dat~
+*.gnu~
+*.obj
+*.mod
+
+#Output files
+*.txt
+*.png
+
+#Git files
+*.md
